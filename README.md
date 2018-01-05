@@ -3,7 +3,7 @@
 <p>This is readme.</p>
 <p>I'll tell you how to use this project.</p>
 <p>This is my first repository for saving my code.</p>
-<p>You can clone my code from this repository.<hr>
+<p>You can clone my code from this repository.</p>
 <p>I often update my code.</p>
 <p>I hope you can tell your friend  my code when you clone my code</p>
 
