@@ -1,6 +1,6 @@
 # firstRep
 
-This is readme.<hr style="height:1px;">
+This is readme.<hr/>
 I'll tell you how to use this project.\n
 This is my first repository for saving my code.
 You can clone my code from this repository.
