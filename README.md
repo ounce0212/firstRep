@@ -1,6 +1,6 @@
 # firstRep
 
-This is readme.<hr>
+<p>This is readme.</p>
 I'll tell you how to use this project.<hr>
 This is my first repository for saving my code.<hr>
 You can clone my code from this repository.<hr>
