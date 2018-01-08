@@ -23,6 +23,6 @@ public class HttpAdvice {
     @Before("execution(public * com.example.controller.UserController.*(..))")
     public void beforeRequest(JoinPoint joinPoint){
         HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
-
+        String bbb = "bbbb";
     }
 }
