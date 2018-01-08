@@ -1,8 +1,7 @@
 package com.example.service;
 
 import com.example.entity.User;
-
-import java.util.List;
+import com.example.exception.UserException;
 
 /**
  * @项目：test
@@ -11,11 +10,11 @@ import java.util.List;
  * @公司：汽车易生活
  */
 public interface UserService {
-    List<User> userLists();
+    UserException<User> userLists();
 
-    User addUser(User user);
+    UserException<User> addUser(User user);
 
-    void delUser(Integer id);
+    UserException<User> delUser(Integer id);
 
-    User updUser(User user);
+    UserException<User> updUser(User user);
 }
